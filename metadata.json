@@ -1,0 +1,8 @@
+{
+  "name": "VoltFlow Fleet Diagnostics",
+  "description": "An advanced fleet management dashboard for monitoring battery health, diagnosing high-temperature events using XAI insights, and performing remote bi-directional tests.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
